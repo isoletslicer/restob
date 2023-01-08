@@ -1,0 +1,20 @@
+[
+  { "ItemId": 1, "IngredientId": 1 },
+  { "ItemId": 1, "IngredientId": 3 },
+  { "ItemId": 1, "IngredientId": 11 },
+  { "ItemId": 1, "IngredientId": 19 },
+  { "ItemId": 1, "IngredientId": 20 },
+  { "ItemId": 1, "IngredientId": 4 },
+  { "ItemId": 2, "IngredientId": 5 },
+  { "ItemId": 2, "IngredientId": 16 },
+  { "ItemId": 2, "IngredientId": 19 },
+  { "ItemId": 2, "IngredientId": 20 },
+  { "ItemId": 3, "IngredientId": 9 },
+  { "ItemId": 4, "IngredientId": 14 },
+  { "ItemId": 5, "IngredientId": 13 },
+  { "ItemId": 6, "IngredientId": 12 },
+  { "ItemId": 6, "IngredientId": 18 },
+  { "ItemId": 6, "IngredientId": 19 },
+  { "ItemId": 6, "IngredientId": 20 },
+  { "ItemId": 6, "IngredientId": 11 }
+]

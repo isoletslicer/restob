@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Nasi Ramas Ayam Balado",
+    "description": "Nasi ayam dengan balado, sayur, lalapan",
+    "price": 20000,
+    "imgUrl": "https://awsimages.detik.net.id/content/2014/07/02/297/171203_ledbalado.jpeg",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "Kwetiaw Goreng",
+    "description": "Kwetiaw Goreng dengan campuran sayur",
+    "price": 20000,
+    "imgUrl": "https://kitakini.news/wp-content/uploads/2021/12/kwetiau-1.jpg",
+    "authorId": 2,
+    "categoryId": 2
+  },
+  {
+    "name": "Pangsit Goreng",
+    "description": "Pangsit yang digoreng",
+    "price": 12000,
+    "imgUrl": "https://awsimages.detik.net.id/api/wm/2020/11/20/resep-pangsit-goreng_169.jpeg",
+    "authorId": 3,
+    "categoryId": 3
+  },
+  {
+    "name": "Jus Mangga",
+    "description": "Jus Mangga Segar",
+    "price": 12000,
+    "imgUrl": "https://s0.bukalapak.com/uploads/content_attachment/0bfe2ac083a1f0bed65e87b5/original/foto_ending_jus_mangga.jpg",
+    "authorId": 2,
+    "categoryId": 4
+  },
+  {
+    "name": "Jus Jeruk",
+    "description": "Jus Jeruk Segar",
+    "price": 12000,
+    "imgUrl": "https://img.okezone.com/okz/500/library/images/2019/11/14/ve6a70o9qkye5gtulpyu_19184.jpg",
+    "authorId": 3,
+    "categoryId": 4
+  },
+  {
+    "name": "Nasi Merah Ikan Bakar",
+    "description": "Nasi merah dengan campuran ikan bakar, sayur, lalapan",
+    "price": 20000,
+    "imgUrl": "https://img-global.cpcdn.com/recipes/75b6b2baf1637ff5/680x482cq70/72-nasi-merah-foto-resep-utama.jpg",
+    "authorId": 2,
+    "categoryId": 1
+  }
+]

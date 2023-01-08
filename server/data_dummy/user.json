@@ -1,0 +1,26 @@
+[
+  {
+    "username": "adminini",
+    "email": "adminini@gmail.com",
+    "password": "adminini",
+    "role": "admin",
+    "phoneNumber": "08880880008",
+    "address": "Jalan Jalan"
+  },
+  {
+    "username": "penaldo",
+    "email": "penaldo@gmail.com",
+    "password": "penaldo",
+    "role": "admin",
+    "phoneNumber": "08880880008",
+    "address": "Jalan Jalan"
+  },
+  {
+    "username": "pessi",
+    "email": "pessi@gmail.com",
+    "password": "pessi",
+    "role": "admin",
+    "phoneNumber": "08880880008",
+    "address": "Jalan Jalan"
+  }
+]

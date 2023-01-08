@@ -1,0 +1,113 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Nasi Ramas Ayam Balado",
+      "description": "Nasi tumpeng dengan bumbu ayam balado",
+      "price": 20000,
+      "imgUrl": "https://awsimages.detik.net.id/content/2014/07/02/297/171203_ledbalado.jpeg",
+      "authorId": 1,
+      "categoryId": 1,
+      "createdAt": "2022-09-19",
+      "updatedAt": "2022-09-19"
+    },
+    {
+      "id": 2,
+      "name": "Kwetiaw Goreng",
+      "description": "Kwetiaw Goreng dengan campuran sayur, kecap, pedas",
+      "price": 15000,
+      "imgUrl": "https://kitakini.news/wp-content/uploads/2021/12/kwetiau-1.jpg",
+      "authorId": 2,
+      "categoryId": 2,
+      "createdAt": "2022-09-19",
+      "updatedAt": "2022-09-19"
+    },
+    {
+      "id": 3,
+      "name": "Pangsit Goreng",
+      "description": "Pangsit yang digoreng",
+      "price": 15000,
+      "imgUrl": "https://awsimages.detik.net.id/api/wm/2020/11/20/resep-pangsit-goreng_169.jpeg",
+      "authorId": 3,
+      "categoryId": 3,
+      "createdAt": "2022-09-19",
+      "updatedAt": "2022-09-19"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Aneka Nasi",
+      "createdAt": "2022-09-19",
+      "updatedAt": "2022-09-19"
+    },
+    {
+      "id": 2,
+      "name": "Aneka Mie",
+      "createdAt": "2022-09-19",
+      "updatedAt": "2022-09-19"
+    },
+    {
+      "id": 3,
+      "name": "Others",
+      "createdAt": "2022-09-19",
+      "updatedAt": "2022-09-19"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "nasi putih",
+      "createdAt": "2022-09-19",
+      "updatedAt": "2022-09-19"
+    },
+    {
+      "id": 2,
+      "name": "cabe balado level 3",
+      "createdAt": "2022-09-19",
+      "updatedAt": "2022-09-19"
+    },
+    {
+      "id": 3,
+      "name": "Ayam Panggang",
+      "createdAt": "2022-09-19",
+      "updatedAt": "2022-09-19"
+    },
+    {
+      "id": 4,
+      "name": "Serundeng",
+      "createdAt": "2022-09-19",
+      "updatedAt": "2022-09-19"
+    },
+    {
+      "id": 5,
+      "name": "Kwetiaw Polos",
+      "createdAt": "2022-09-19",
+      "updatedAt": "2022-09-19"
+    },
+    {
+      "id": 6,
+      "name": "Sayur Lengkuas",
+      "createdAt": "2022-09-19",
+      "updatedAt": "2022-09-19"
+    },
+    {
+      "id": 7,
+      "name": "cabe balado level 3",
+      "createdAt": "2022-09-19",
+      "updatedAt": "2022-09-19"
+    },
+    {
+      "id": 8,
+      "name": "Sayur Buncis",
+      "createdAt": "2022-09-19",
+      "updatedAt": "2022-09-19"
+    },
+    {
+      "id": 9,
+      "name": "Pangsit Polos",
+      "createdAt": "2022-09-19",
+      "updatedAt": "2022-09-19"
+    }
+  ]
+}

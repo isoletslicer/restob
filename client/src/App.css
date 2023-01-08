@@ -1,0 +1,91 @@
+#login-admin-page-section {
+  background-color: grey;
+  background-image: url("./assets/1_6HQgO_P8Tm7p_SinwV0mnQ.png");
+}
+#card-login-admin {
+  border-radius: 10px;
+}
+
+#register-admin-page-section {
+  background-color: grey;
+  background-image: url("./assets/9.image_-5.webp");
+}
+#card-register-admin {
+  border-radius: 10px;
+}
+
+#table-food-item-section {
+  background-image: url("./assets/pizza-bg.webp");
+  background-size: cover;
+}
+#card-table-food-item {
+  border-radius: 10px;
+  width: fit-content;
+}
+
+#table-category-section {
+  background-image: url("./assets/pizza-bg.webp");
+  background-size: cover;
+}
+#card-table-category {
+  border-radius: 10px;
+}
+
+#table-ingredient-section {
+  background-image: url("./assets/pizza-bg.webp");
+  background-size: cover;
+}
+#card-table-ingredient {
+  border-radius: 10px;
+}
+
+#form-food-item-page-section {
+  background-color: grey;
+}
+
+#form-food-category-page-section {
+  background-color: grey;
+}
+
+#form-food-ingredient-page-section {
+  background-color: grey;
+}
+
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
