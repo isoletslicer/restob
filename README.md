@@ -15,6 +15,7 @@ Feature :
   - after you `cd server`
     **Install depedency modules**
 
+BEFORE USE SEQUELIZE-CLI : MAKE SURE THAT YOUR USERNAME AND PASSWORD IN `server/config` ARE MATCHING WITH YOUR DATABASE USERNAME AND PASSSWORD. IF NOT, PLEASE EDIT THE CONFIG USERNAME AND PASSWORD IN `development, test` KEYS SECTION.
   ```
   npm install
   npx sequelize-cli db:create
